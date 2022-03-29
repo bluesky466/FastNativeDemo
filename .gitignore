@@ -1,0 +1,29 @@
+# Build application files
+*.apk
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class
+*.class
+
+# Generated files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log files
+*.log
+
+# Intellij
+*.iml
+.idea/
+
+.DS_Store
+
+/captures
+.externalNativeBuild
+.cxx/
